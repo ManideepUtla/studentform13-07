@@ -21,10 +21,10 @@ public class StudentRegFormTest {
         parentInfo.emergencyContactInformation="7013447963";
 
         EducationInformation educationInfo=new EducationInformation();
-        educationInfo.schoolName="";
-        educationInfo.graduationDate="";
-        educationInfo.howDidYouHearAboutUs="";
-        educationInfo.whyareyouInterestedInOurProgram="";
+        educationInfo.instituteName="Neoteric Method";
+        educationInfo.graduationDate="2024";
+        educationInfo.howDidYouHearAboutUs="Brother";
+        educationInfo.whyareyouInterestedInOurProgram="I like java";
 
 
         registrationForm.studentInformation=studentInfo;
